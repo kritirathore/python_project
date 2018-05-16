@@ -1,0 +1,52 @@
+login sa 
+password sa
+
+
+default work in master db
+
+
+create database morning
+to rename-  sp_renamedb morning, morningDB
+use morningDB
+
+commnet-ctrl+a ctrl+k ctrl+c
+uncomment- ctrl+k ctrl+uncomment-
+
+create table empdetail ()
+
+
+select top 2 * from Edetail - toshow top 2 rows
+
+
+
+percent- to show the  % of rows
+
+
+select top 50 percent * from EDetail- to show 50% database
+
+
+distinct- to hide duplicate values
+
+
+select distinct * from EDetail-
+
+filter-
+
+select * from EDetail WHERE Eid=1001
+
+
+
+select salary=(Salary/10),name from EDetail
+
+
+select * from EDetail wheree Salary BETWEEN 20000 AND 30000
+
+
+
+
+
+
+
+
+
+
