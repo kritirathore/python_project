@@ -1,9 +1,7 @@
-Enter value to be entered: 
-
-
+value1 = input("Enter value to be entered in the list: "); 
 list1 = [];
 
 
-x = max(list1);
 
-print(x);
+
+print(list1);

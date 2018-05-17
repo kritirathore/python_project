@@ -1,0 +1,10 @@
+t1 = ("123","146,"235");
+
+for i in t1:
+	if(i==146):
+		i=134;
+	
+	li.append(i);
+del t1;
+t1 = tupple(li);
+print t1;
